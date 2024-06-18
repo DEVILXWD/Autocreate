@@ -10,7 +10,7 @@ echo "---------------------------"
 echo "[~] Author: DeviL BoY"
 echo "[~] GitHub: DEVILXWD"
 echo "[~] WhatsApp: +917668337116"
-echo "[~] Facebook: Auto Create Account By Devil"
+echo "[~] Facebook: Auto Create Account By devil"
 echo "---------------------------"
 
 # Define the token
@@ -35,5 +35,3 @@ echo "Done!"
 
 # Keep the terminal open for a while
 sleep 3
-chmod +x auto_create.sh
-./auto_create.sh
